@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElvisOdhiambo
-- 👀 I’m interested in pyhton and Django
+- 👀 I’m interested in Python and Django
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on a Python related software
 - 📫 How to reach me elvisodhiambo2001@gmail.com
